@@ -1,0 +1,65 @@
+Mutant,Reaction1,Reaction2,NEW
+S1-0-NR.crn, X1 -> Y , X2 + Y ->  
+S1-0.crn, X1 -> Y , X2 + Y ->  
+S1-1-NR.crn, X1 -> Y , X2 + Y ->  , X2 + Y ->  
+S1-1.crn, X1 -> Y , X2 + Y ->  , X2 + Y ->  
+S1-10-NR.crn, X1 -> Y , X2 + Y ->  ,  -> X2 + X2 
+S1-10.crn, X1 -> Y , X2 + Y ->  ,  -> X2 + X2 
+S1-100.crn, X1 -> Y , X2 + Y ->  
+S1-101.crn, X1 -> Y , X2 + Y ->  , X1 + X1 -> X2 
+S1-102.crn, X1 -> Y , X2 + Y ->  , Y -> Y 
+S1-103.crn, X1 -> Y , X1 + Y ->  
+S1-104.crn, X1 -> Y , X2 + Y ->  , X1 + X2 + Y -> 
+S1-105.crn,REMOVED, X2 + Y ->  
+S1-106.crn, X1 -> Y , X2 + Y + X1 ->  
+S1-107.crn, X1 -> Y , Y ->  
+S1-108.crn, X1 -> Y , X2 + Y ->  ,   -> X2 + X1 + Y 
+S1-109.crn, X1 -> Y , X2 + Y ->  , Y -> X2 + X2
+S1-11-NR.crn, X1 -> Y , X2 + Y ->  , X1 + Y ->  
+S1-11.crn, X1 -> Y , X2 + Y ->  , X1 + Y ->  
+S1-110.crn, X1 -> Y , X2 ->  
+S1-12-NR.crn, X1 -> Y , X2 + Y ->  , X2 -> X1 
+S1-12.crn, X1 -> Y , X2 + Y ->  , X2 -> X1 
+S1-13-NR.crn, X1 -> X1 + Y , X2 + Y ->  
+S1-13.crn, X1 -> X1 + Y , X2 + Y ->  
+S1-14-NR.crn, X1 -> Y , X2 + Y ->  , Y -> Y + Y 
+S1-14.crn, X1 -> Y , X2 + Y ->  , Y -> Y + Y 
+S1-15-NR.crn, X1 -> Y , Y ->  
+S1-15.crn, X1 -> Y , Y ->  
+S1-16-NR.crn, X2 -> Y , X2 + Y ->  
+S1-16.crn, X2 -> Y , X2 + Y ->  
+S1-17-NR.crn, X1 -> Y , X2 + Y ->  ,  -> X2 + Y 
+S1-17.crn, X1 -> Y , X2 + Y ->  ,  -> X2 + Y 
+S1-18-NR.crn, X1 ->  , X2 + Y ->  
+S1-18.crn, X1 ->  , X2 + Y ->  
+S1-19-NR.crn, X1 -> Y , X2 + Y ->  , X1 ->  
+S1-19.crn, X1 -> Y , X2 + Y ->  , X1 ->  
+S1-2-NR.crn, X1 -> Y , X2 + Y ->  , Y -> Y 
+S1-2.crn, X1 -> Y , X2 + Y ->  , Y -> Y 
+S1-20-NR.crn, X1 -> Y , X2 + Y ->  , X1 + Y -> Y 
+S1-20.crn, X1 -> Y , X2 + Y ->  , X1 + Y -> Y 
+S1-21-NR.crn, X1 -> Y , X2 + Y ->  , X2 ->  
+S1-21.crn, X1 -> Y , X2 + Y ->  , X2 ->  
+S1-22-NR.crn,REMOVED, X2 + Y ->  
+S1-22.crn,REMOVED, X2 + Y ->  
+S1-23-NR.crn, X1 -> Y , X2 + Y -> X1 
+S1-23.crn, X1 -> Y , X2 + Y -> X1 
+S1-24-NR.crn, X2 -> Y , X2 + Y ->  
+S1-24.crn, X2 -> Y , X2 + Y ->  
+S1-25-NR.crn,  -> Y , X2 + Y ->  
+S1-25.crn,  -> Y , X2 + Y ->  
+S1-28.crn, X1 -> Y , X2 + Y ->  , Y + Y ->  
+S1-3-NR.crn, X1 + X2 -> Y , X2 + Y ->  
+S1-3.crn, X1 + X2 -> Y , X2 + Y ->  
+S1-4-NR.crn, X1 -> Y , X2 + Y ->  ,  -> X1 + X1 
+S1-4.crn, X1 -> Y , X2 + Y ->  ,  -> X1 + X1 
+S1-5-NR.crn, X1 -> Y , X2 + Y ->  , X1 + X2 -> Y + Y 
+S1-5.crn, X1 -> Y , X2 + Y ->  , X1 + X2 -> Y + Y 
+S1-6-NR.crn,REMOVED, X2 + Y ->  
+S1-6.crn,REMOVED, X2 + Y ->  
+S1-7-NR.crn, X1 -> Y , X2 + Y ->  , X2 -> X1 + X1 
+S1-7.crn, X1 -> Y , X2 + Y ->  , X2 -> X1 + X1 
+S1-8-NR.crn, X1 -> Y , X2 + Y ->  ,  ->  
+S1-8.crn, X1 -> Y , X2 + Y ->  ,  ->  
+S1-9-NR.crn, X1 -> Y , X2 + Y ->  , X2 + Y ->  
+S1-9.crn, X1 -> Y , X2 + Y ->  , X2 + Y ->  
