@@ -4,6 +4,6 @@ SampleResults/ contains the raw data generated when simulating and evaluating a 
 
 Subjects/ contains the text version CRN models used in the study
 
-SummaryData/ contains the summaries of each subject in our study
+SummaryData/ contains the summaries of subjects in our study
 
 Tests/ contains the abstract tests and concrete inputs used in the study
