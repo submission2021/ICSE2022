@@ -1,0 +1,5 @@
+	+1 Reaction1 +1 A1 
+	+1 Reaction2 -1 A1 -1 F1P -1 Y 
+	+1 Reaction3 +1 A2 
+	+1 Reaction4 -1 A2 -1 F2P -1 Y 
+	+1 Reaction5 -1 Y 

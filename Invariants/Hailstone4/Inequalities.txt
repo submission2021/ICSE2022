@@ -1,0 +1,16 @@
+	+2 Reaction13 +2 Reaction14 +2 Reaction15 +1 X1 +1 ac +1 ag +1 Leaderap 
+	+1 Reaction20 -1 SetX1X1 -1 Leaderan -1 ANuAOX1 -1 ANuAOab -1 Leaderao -1 ANuAPX1 -1 ANuAPab -1 Leaderap 
+	+1 Reaction28 -1 SetABf -1 ar -1 at -1 au -1 SetABab -1 SetX1ab -1 Leaderan -1 ANuAOX1 -1 ANuAOab -1 Leaderao -1 ANuAPX1 -1 ANuAPab -1 Leaderap 
+	+1 Reaction29 -1 ar -1 at -1 au -1 SetABab -1 SetX1ab -1 Leaderan -1 ANuAOX1 -1 ANuAOab -1 Leaderao -1 ANuAPX1 -1 ANuAPab -1 Leaderap 
+	+1 Reaction37 -1 Leaderai -1 AIuAJX1 -1 AIuAJab -1 SetABX1 -1 SetX1ab -1 Leaderan -1 ANuAOX1 -1 ANuAOab -1 Leaderao -1 ANuAPX1 -1 ANuAPab -1 Leaderap 
+	+1 Reaction45 -1 SetABX1 -1 SetX1ab -1 Leaderan -1 ANuAOX1 -1 ANuAOab -1 Leaderao -1 ANuAPX1 -1 ANuAPab -1 Leaderap 
+	+1 Reaction53 -1 at -1 au -1 SetABab -1 SetX1ab -1 Leaderan -1 ANuAOX1 -1 ANuAOab -1 Leaderao -1 ANuAPX1 -1 ANuAPab -1 Leaderap 
+	+1 Reaction54 -1 au -1 SetABab -1 SetX1ab -1 Leaderan -1 ANuAOX1 -1 ANuAOab -1 Leaderao -1 ANuAPX1 -1 ANuAPab -1 Leaderap 
+	+1 Reaction55 -1 SetABab -1 SetX1ab -1 Leaderan -1 ANuAOX1 -1 ANuAOab -1 Leaderao -1 ANuAPX1 -1 ANuAPab -1 Leaderap 
+	+1 Reaction56 -1 SetX1ab -1 Leaderan -1 ANuAOX1 -1 ANuAOab -1 Leaderao -1 ANuAPX1 -1 ANuAPab -1 Leaderap 
+	+1 Reaction57 -1 Leaderan -1 ANuAOX1 -1 ANuAOab -1 Leaderao -1 ANuAPX1 -1 ANuAPab -1 Leaderap 
+	+1 Reaction61 +1 Reaction62 +1 Reaction63 +1 Reaction64 +1 Reaction65 +1 Reaction66 +1 Reaction78 +1 Reaction79 +1 Reaction80 +1 Reaction81 +1 Reaction82 +1 Reaction83 +3 X1 +3 ad +3 al +1 aq -1 au -1 SetABab -1 SetX1ab -1 Leaderan -1 ANuAOX1 -1 ANuAOab -1 Leaderao -1 ANuAPX1 -1 ANuAPab -1 Leaderap 
+	+1 Reaction74 -1 Leaderao 
+	+1 Reaction8 +1 ab 
+	+1 Reaction9 +1 ab +1 SetX1f 
+	+1 Reaction91 -1 Leaderap 

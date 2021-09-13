@@ -1,0 +1,3 @@
+	+1 Reaction10 -1 Reaction13 -1 Y +1 CE 
+	+1 Reaction11 -1 Reaction12 -1 CE 
+	+1 Reaction8 -2 Reaction9 -1 F 

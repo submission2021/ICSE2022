@@ -1,0 +1,11 @@
+	+1 LeaderX1 +1 X1uABX1 +1 X1uABab -1 ab 
+	+1 Leaderac +1 ACuAEX1 +1 ACuAEab +1 SetX1X1 +1 Leaderan +1 ANuAOX1 +1 ab +1 ANuAOab +1 Leaderao +1 ANuAPX1 +1 ANuAPab +1 SetX1f +1 Leaderap 
+	+1 af +1 ag +1 ab +1 Leaderao +1 SetX1f +1 Leaderap 
+	+1 A 
+	+1 ah +1 SetX1X1 +1 Leaderan +1 ANuAOX1 +1 ab +1 ANuAOab +1 Leaderao +1 ANuAPX1 +1 ANuAPab +1 SetX1f +1 Leaderap 
+	+1 Leaderad +1 ADuAFX1 +1 ADuAFab +1 SetABf +1 ar +1 at +1 au +1 SetABab +1 SetX1ab +1 Leaderan +1 ANuAOX1 +1 ab +1 ANuAOab +1 Leaderao +1 ANuAPX1 +1 ANuAPab +1 SetX1f +1 Leaderap 
+	+1 aj +1 SetABf +1 ar +1 at +1 au +1 SetABab +1 SetX1ab +1 Leaderan +1 ANuAOX1 +1 ab +1 ANuAOab +1 Leaderao +1 ANuAPX1 +1 ANuAPab +1 SetX1f +1 Leaderap 
+	+1 Leaderag -1 ar +1 AGuAIX1 +1 AGuAIab +1 Leaderai +1 AIuAJX1 +1 AIuAJab +1 SetABX1 -1 at -1 au -1 SetABab 
+	+1 Leaderah -1 ar +1 AHuAKX1 +1 AHuAKab 
+	+1 ao -1 ar +1 SetABX1 -1 at -1 au -1 SetABab 
+	+1 Leaderak -1 at -1 au 

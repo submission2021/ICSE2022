@@ -1,0 +1,2 @@
+	+1 Reaction10 -1 Reaction8 +1 Y -1 CO 
+	+1 Reaction11 -1 Reaction9 +1 CO 

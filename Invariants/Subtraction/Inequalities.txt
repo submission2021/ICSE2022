@@ -1,0 +1,2 @@
+	+1 Reaction1 -1 Y +1 X2 
+	+1 Reaction2 +1 X2 

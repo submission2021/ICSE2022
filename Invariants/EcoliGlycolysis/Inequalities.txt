@@ -1,0 +1,12 @@
+	+1 Reaction1 -1 cpd00089_c0_ 
+	+1 Reaction10 -1 cpd00020_c0_ 
+	+1 Reaction11 -1 cpd00029_c0_ 
+	+1 Reaction12 -1 cpd11621_c0_ 
+	+2 Reaction2 -1 cpd00102_c0_ +1 cpd11621_c0_ -2 cpd00072_c0_ -2 cpd00290_c0_ -1 cpd00095_c0_ -1 cpd00004_c0_ 
+	+2 Reaction3 -1 cpd00102_c0_ +1 cpd11621_c0_ -2 cpd00290_c0_ -1 cpd00095_c0_ -1 cpd00004_c0_ 
+	+2 Reaction4 -1 cpd00102_c0_ +1 cpd11621_c0_ +1 cpd00095_c0_ -1 cpd00004_c0_ 
+	+2 Reaction5 -1 cpd00102_c0_ +1 cpd11621_c0_ -1 cpd00095_c0_ -1 cpd00004_c0_ 
+	+1 Reaction6 -1 cpd00004_c0_ 
+	+1 Reaction7 -1 cpd00004_c0_ +1 cpd00203_c0_ 
+	+1 Reaction8 -1 cpd00001_c0_ +1 cpd11621_c0_ -1 cpd00482_c0_ 
+	+1 Reaction9 -1 cpd00001_c0_ +1 cpd11621_c0_ 
